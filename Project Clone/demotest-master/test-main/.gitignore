@@ -1,0 +1,15 @@
+**/*.log
+**/logs
+**/output
+**/.settings/
+**/target/
+**/*.orig
+*.exe.stackdump
+**/*.iml
+**/.idea
+**/.project
+**/.classpath
+**/.checkstyle
+**/.DB_Store
+**/.metadata
+**/temp.properties
